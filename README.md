@@ -1,15 +1,15 @@
 # Leap Year Checker: A Python Implementation
 ## Table of Contents
-- [Introduction](Introduction)
-- [Technical Implementation](Technical_Implementation)
-- [Input and Type Conversion](Input_and_Type_Conversion)
-- [Modulo Operator and Conditional Logic](Modulo_Operator_and_Conditional_Logic)
-- [Output](Output)
-- [Project Significance and Impact](Project_Significance_and_Impact)
-- [Potential Enhancements](Potential_Enhancements)
-- [Function Definition](Function_Definition)
-- [User Experience](User_Experience)
-- [Conclusion](Conclusion)
+- [Introduction](#Introduction)
+- [Technical Implementation](#Technical-Implementation)
+- [Input and Type Conversion](#Input-and-Type-Conversion)
+- [Modulo Operator and Conditional Logic](#Modulo-Operator-and-Conditional-Logic)
+- [Output](#Output)
+- [Project Significance and Impact](#Project-Significance-and-Impact)
+- [Potential Enhancements](#Potential-Enhancements)
+- [Function Definition](#Function-Definition)
+- [User Experience](#User-Experience)
+- [Conclusion](#Conclusion)
 
 
 ## Introduction

@@ -24,6 +24,9 @@ If a year is divisible by 4, it is potentially a leap year.
 However, if a year is divisible by 100, it is not a leap year, unless it is also divisible by 400. In that case, it is a leap year.
 ## Output
 The print() function displays the result, indicating whether the entered year is a "Leap year" or "Not leap year."
+![leap year](https://github.com/user-attachments/assets/1ba54a74-8d22-4b69-b44e-fe82de9b539b)
+
+
 ## Project Significance and Impact
 This project demonstrates a clear understanding of conditional logic and the use of the modulo operator for solving a specific problem. It provides a concise and accurate implementation of the leap year determination rules. While seemingly simple, it highlights the importance of precise logical thinking in programming.
 ## Potential Enhancements
